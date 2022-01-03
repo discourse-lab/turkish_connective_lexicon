@@ -1,5 +1,5 @@
 {
-  "lexiconName": "Turkish Connective Lexicon",
+  "lexiconName": "TCL",
   "lexiconNameFull": "A lexicon of Turkish Discourse Connectives",
   "version": "1.0",
   "originalReleaseDate": "2022-01-03",
@@ -13,7 +13,7 @@
     "senseTagset": "turkish_tcl"
   },
   "licenseInfo": {
-    "copyrightDate": "2022",
+    "copyrightDate": "2020",
     "licenseName": "MIT License",
     "licenseUrl": "https://opensource.org/licenses/MIT/"
   },
@@ -21,7 +21,14 @@
     "publisher": "Graduate School of Informatics, Middle East Technical University, Ankara, Turkey",
     "authors": [
       { "authorName": "Deniz Zeyrek", "organisation": "Graduate School of Informatics, Middle East Technical University, Ankara, Turkey" },
-	  { "authorName": "Kezban Başıbüyük", "organisation": "Department of Computer Engineering, Middle East Technical University, Ankara, Turkey" },
+{ "authorName": "Kezban Başıbüyük", "organisation": "Department of Computer Engineering, Middle East Technical University, Ankara, Turkey" }
+    ]
+	,
+    "publications": [
+      { 
+         "cite": "Deniz Zeyrek and Kezban Başıbüyük. TCL - a Lexicon of Turkish Discourse Connectives. In Proceedings of the First International Workshop on Designing Meaning Representations. Florence, Italy , August 2019", 
+         "url": "https://aclanthology.org/W19-3308"
+      }
     ]
   }
 }

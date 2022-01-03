@@ -836,7 +836,7 @@
       </orth>
     </orths>
     <syn>
-      <cat>ADV ADP (ADV)</cat>
+      <cat>ADV ADP ADV</cat>
       <sem>
         <pdtb2_relation anno_N="6" freq="6" sense="Temporal.Asynchronous.Precedence" />
         <example>Önce, elindeki reçelli bir dilim ekmeği, kapağını güçlükle kaldırdığı piyanonun içine atan küçük bir kız belirdi ekranda. Ardından, görüntü kısa bir süre için kayboldu.
@@ -1849,7 +1849,7 @@
       </orth>
     </orths>
     <syn>
-      <cat>ADV ADP (ADP)</cat>
+      <cat>ADV ADP ADP</cat>
       <sem>
         <pdtb2_relation anno_N="6" freq="6" sense="Temporal.Asynchronous.Precedence" />
         <example>ve kadın terasa çıkmadan önce kaçıyordu.</example>
@@ -2017,14 +2017,14 @@
       </orth>
     </orths>
     <syn>
-      <cat>ADV ADP (ADV)</cat>
+      <cat>ADV ADP ADV</cat>
       <sem>
         <pdtb2_relation anno_N="58" freq="21" sense="Temporal.Asynchronous.Precedence" />
         <example>Bir tenekeye tekme atamazdım mesela. Kaçamazdım sonra.</example>
       </sem>
     </syn>
     <syn>
-      <cat>ADV ADP (ADP)</cat>
+      <cat>ADV ADP ADP</cat>
       <sem>
         <pdtb2_relation anno_N="58" freq="37" sense="Temporal.Asynchronous.Succession" />
         <example>kadın çamaşırları astıktan sonra bekliyor 
