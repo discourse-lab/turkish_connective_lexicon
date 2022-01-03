@@ -7,7 +7,7 @@
   "languageEnglish": "Turkish",
   "languageNative": "Türkçe",
   "locale": "tr",
-  "homepage": "https://github.com/TScheffler/UK_DiMLex",
+  "homepage": "https://github.com/discourse-lab/turkish_connective_lexicon",
   "parseInfo": {
     "posTagset": "turkish",
     "senseTagset": "turkish_tcl"
