@@ -836,7 +836,7 @@
       </orth>
     </orths>
     <syn>
-      <cat>ADV_ADP</cat>
+      <cat>ADV</cat>
       <sem>
         <pdtb2_relation anno_N="6" freq="6" sense="Temporal.Asynchronous.Precedence" />
         <example>Önce, elindeki reçelli bir dilim ekmeği, kapağını güçlükle kaldırdığı piyanonun içine atan küçük bir kız belirdi ekranda. Ardından, görüntü kısa bir süre için kayboldu.
@@ -1475,9 +1475,9 @@
       </orth>
     </orths>
     <syn>
-      <cat>ADV</cat>
+      <cat>ADP</cat>
       <sem>
-        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Succession" />
+        <pdtb2_relation anno_N="1" freq="1" sense="Temporal.Asynchronous.Precedence" />
         <example>Sabah çok erken saatte bir önceki akşam gün batmadan hemen önce astığı </example>
       </sem>
     </syn>
@@ -1849,7 +1849,7 @@
       </orth>
     </orths>
     <syn>
-      <cat>ADV_ADP</cat>
+      <cat>ADP</cat>
       <sem>
         <pdtb2_relation anno_N="6" freq="6" sense="Temporal.Asynchronous.Precedence" />
         <example>ve kadın terasa çıkmadan önce kaçıyordu.</example>
@@ -2017,11 +2017,14 @@
       </orth>
     </orths>
     <syn>
-      <cat>ADV_ADP</cat>
+      <cat>ADV</cat>
       <sem>
         <pdtb2_relation anno_N="58" freq="21" sense="Temporal.Asynchronous.Precedence" />
         <example>Bir tenekeye tekme atamazdım mesela. Kaçamazdım sonra.</example>
       </sem>
+    </syn>
+    <syn>
+      <cat>ADP</cat>
       <sem>
         <pdtb2_relation anno_N="58" freq="37" sense="Temporal.Asynchronous.Succession" />
         <example>kadın çamaşırları astıktan sonra bekliyor 
@@ -2029,7 +2032,7 @@
       </sem>
     </syn>
   </entry>
-  <entry id="91" word="sonra ... bile">
+  <entry id="91" word="sonra bile">
     <orths>
       <orth canonical="1" orth_id="91o1" type="discont">
         <part type="phrasal">sonra bile</part>
@@ -2055,6 +2058,9 @@
         <pdtb2_relation anno_N="5" freq="3" sense="Temporal.Asynchronous.Precedence" />
         <example>Bu koşan adamın arkasından öylesine bakıyorlar, sonra da yollarına devam ediyorlardı.</example>
       </sem>
+    </syn>
+    <syn>
+      <cat>ADP</cat>
       <sem>
         <pdtb2_relation anno_N="5" freq="2" sense="Temporal.Asynchronous.Succession" />
         <example>sınıfların ve sınıf mücadelesinin üretim araçlarının toplumsal mülkiyeti tamamlandıktan sonra da devam edeceğini,</example>
