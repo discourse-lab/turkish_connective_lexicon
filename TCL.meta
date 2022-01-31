@@ -6,7 +6,7 @@
   "currentReleaseDate": "2022-01-03",
   "languageEnglish": "Turkish",
   "languageNative": "Türkçe",
-  "locale": "tr",
+  "locale": "tr_TR",
   "homepage": "https://github.com/discourse-lab/turkish_connective_lexicon",
   "parseInfo": {
     "posTagset": "turkish",
